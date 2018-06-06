@@ -1,6 +1,7 @@
 // declare your functions here...
 
-function paragraphSelectop(){
+function paragraphSelector(){
+  return $('p')
 }
 
 
