@@ -1,6 +1,8 @@
 // declare your functions here...
 
-  
+function paragraphSelectop(){
+var 
+}
 
   
 function paragraphSelector(){
