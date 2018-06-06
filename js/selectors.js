@@ -9,6 +9,6 @@ for(var i=0; i<$('p'.count()); i++){
   
 }
   
-  function lastImageSelector(){
+function lastImageSelector(){
   return $('.img:last')
 }
