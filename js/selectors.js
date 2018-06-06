@@ -5,7 +5,7 @@ $(document).ready()
   
 function paragraphSelector(){
   
-for(var i=0; i<$('p').count(); i++){
+for(var i=0; i<$('p'.count()); i++){
   
 }
   
